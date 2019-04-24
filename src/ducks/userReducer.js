@@ -5,7 +5,6 @@ const initialState = {
     firstName: null,
     lastName: null,
 }
-
 const REQUEST_USER_DATA = "REQUEST_USER_DATA"
 
 export function requestUserData() {
